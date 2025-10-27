@@ -1,4 +1,4 @@
-#Actividad de Introducción al Paradigma Orientado a Objetos
+###Actividad de Introducción al Paradigma Orientado a Objetos###
 
 Nombre:Juan Esteban Soto pérez
 Ficha:3228973B
